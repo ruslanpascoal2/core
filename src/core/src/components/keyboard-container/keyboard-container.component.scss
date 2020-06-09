@@ -10,7 +10,7 @@ $mat-keyboard-max-width: 960px !default;
   display: block;
   margin: 0 auto;
   max-width: $mat-keyboard-max-width;
-  min-width: $mat-keyboard-min-width;
+  min-width: 900px;
   // Initial transformation is applied to start keyboard out of view.
   transform: translateY(100%);
 
